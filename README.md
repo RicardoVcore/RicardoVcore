@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RicardoVcore Web Developer
+- 👋 Hi, I’m @RicardoVcore Developer
 - 👀 I’m interested in Backend and Frontend dev
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on openosurce, and learn more!
 - 📫 How to reach me: ricardovasques@projektor.co.uk
 
