@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @RicardoVcore Developer
 - 👀 I’m interested in Backend and Frontend dev
-- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on opensource.
 - 📫 How to reach me: ricardovasques@projektor.co.uk
 
